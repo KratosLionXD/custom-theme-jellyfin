@@ -279,3 +279,12 @@
 .layout-tv .videoOsdBottom {
 	background: #000a;
 }
+
+.person-card .role,
+.cast-list .role {
+    display: none !important;
+}
+
+.skinHeader-withBackground {
+    background-color: #000;
+}
